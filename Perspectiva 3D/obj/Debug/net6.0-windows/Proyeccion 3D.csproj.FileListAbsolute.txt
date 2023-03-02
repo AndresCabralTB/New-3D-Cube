@@ -1,0 +1,68 @@
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\XD\Perspectiva 3D\Perspectiva 3D\bin\Debug\net6.0-windows\Proyeccion 3D.exe
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\XD\Perspectiva 3D\Perspectiva 3D\bin\Debug\net6.0-windows\Proyeccion 3D.deps.json
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\XD\Perspectiva 3D\Perspectiva 3D\bin\Debug\net6.0-windows\Proyeccion 3D.runtimeconfig.json
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\XD\Perspectiva 3D\Perspectiva 3D\bin\Debug\net6.0-windows\Proyeccion 3D.dll
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\XD\Perspectiva 3D\Perspectiva 3D\bin\Debug\net6.0-windows\Proyeccion 3D.pdb
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\XD\Perspectiva 3D\Perspectiva 3D\obj\Debug\net6.0-windows\Proyeccion 3D.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\XD\Perspectiva 3D\Perspectiva 3D\obj\Debug\net6.0-windows\Perspectiva_3D.Form.resources
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\XD\Perspectiva 3D\Perspectiva 3D\obj\Debug\net6.0-windows\Proyeccion 3D.csproj.GenerateResource.cache
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\XD\Perspectiva 3D\Perspectiva 3D\obj\Debug\net6.0-windows\Proyeccion 3D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\XD\Perspectiva 3D\Perspectiva 3D\obj\Debug\net6.0-windows\Proyeccion 3D.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\XD\Perspectiva 3D\Perspectiva 3D\obj\Debug\net6.0-windows\Proyeccion 3D.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\XD\Perspectiva 3D\Perspectiva 3D\obj\Debug\net6.0-windows\Proyeccion 3D.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\XD\Perspectiva 3D\Perspectiva 3D\obj\Debug\net6.0-windows\Proyeccion 3D.dll
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\XD\Perspectiva 3D\Perspectiva 3D\obj\Debug\net6.0-windows\refint\Proyeccion 3D.dll
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\XD\Perspectiva 3D\Perspectiva 3D\obj\Debug\net6.0-windows\Proyeccion 3D.pdb
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\XD\Perspectiva 3D\Perspectiva 3D\obj\Debug\net6.0-windows\Proyeccion 3D.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\XD\Perspectiva 3D\Perspectiva 3D\obj\Debug\net6.0-windows\ref\Proyeccion 3D.dll
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\XD\Proyeccion_3D_\Perspectiva 3D\bin\Debug\net6.0-windows\Proyeccion 3D.exe
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\XD\Proyeccion_3D_\Perspectiva 3D\bin\Debug\net6.0-windows\Proyeccion 3D.deps.json
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\XD\Proyeccion_3D_\Perspectiva 3D\bin\Debug\net6.0-windows\Proyeccion 3D.runtimeconfig.json
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\XD\Proyeccion_3D_\Perspectiva 3D\bin\Debug\net6.0-windows\Proyeccion 3D.dll
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\XD\Proyeccion_3D_\Perspectiva 3D\bin\Debug\net6.0-windows\Proyeccion 3D.pdb
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\XD\Proyeccion_3D_\Perspectiva 3D\obj\Debug\net6.0-windows\Proyeccion 3D.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\XD\Proyeccion_3D_\Perspectiva 3D\obj\Debug\net6.0-windows\Perspectiva_3D.Form.resources
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\XD\Proyeccion_3D_\Perspectiva 3D\obj\Debug\net6.0-windows\Proyeccion 3D.csproj.GenerateResource.cache
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\XD\Proyeccion_3D_\Perspectiva 3D\obj\Debug\net6.0-windows\Proyeccion 3D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\XD\Proyeccion_3D_\Perspectiva 3D\obj\Debug\net6.0-windows\Proyeccion 3D.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\XD\Proyeccion_3D_\Perspectiva 3D\obj\Debug\net6.0-windows\Proyeccion 3D.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\XD\Proyeccion_3D_\Perspectiva 3D\obj\Debug\net6.0-windows\Proyeccion 3D.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\XD\Proyeccion_3D_\Perspectiva 3D\obj\Debug\net6.0-windows\Proyeccion 3D.dll
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\XD\Proyeccion_3D_\Perspectiva 3D\obj\Debug\net6.0-windows\refint\Proyeccion 3D.dll
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\XD\Proyeccion_3D_\Perspectiva 3D\obj\Debug\net6.0-windows\Proyeccion 3D.pdb
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\XD\Proyeccion_3D_\Perspectiva 3D\obj\Debug\net6.0-windows\Proyeccion 3D.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Documents\Uni\Sexto semestre\Graficación y videojuegos\Proyección 3D\XD\Proyeccion_3D_\Perspectiva 3D\obj\Debug\net6.0-windows\ref\Proyeccion 3D.dll
+\\Mac\Home\Desktop\Proyeccion_3D_\Perspectiva 3D\bin\Debug\net6.0-windows\Proyeccion 3D.exe
+\\Mac\Home\Desktop\Proyeccion_3D_\Perspectiva 3D\bin\Debug\net6.0-windows\Proyeccion 3D.deps.json
+\\Mac\Home\Desktop\Proyeccion_3D_\Perspectiva 3D\bin\Debug\net6.0-windows\Proyeccion 3D.runtimeconfig.json
+\\Mac\Home\Desktop\Proyeccion_3D_\Perspectiva 3D\bin\Debug\net6.0-windows\Proyeccion 3D.dll
+\\Mac\Home\Desktop\Proyeccion_3D_\Perspectiva 3D\bin\Debug\net6.0-windows\Proyeccion 3D.pdb
+\\Mac\Home\Desktop\Proyeccion_3D_\Perspectiva 3D\obj\Debug\net6.0-windows\Proyeccion 3D.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Proyeccion_3D_\Perspectiva 3D\obj\Debug\net6.0-windows\Perspectiva_3D.Form.resources
+\\Mac\Home\Desktop\Proyeccion_3D_\Perspectiva 3D\obj\Debug\net6.0-windows\Proyeccion 3D.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Proyeccion_3D_\Perspectiva 3D\obj\Debug\net6.0-windows\Proyeccion 3D.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\Proyeccion_3D_\Perspectiva 3D\obj\Debug\net6.0-windows\Proyeccion 3D.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Proyeccion_3D_\Perspectiva 3D\obj\Debug\net6.0-windows\Proyeccion 3D.AssemblyInfo.cs
+\\Mac\Home\Desktop\Proyeccion_3D_\Perspectiva 3D\obj\Debug\net6.0-windows\Proyeccion 3D.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Proyeccion_3D_\Perspectiva 3D\obj\Debug\net6.0-windows\Proyeccion 3D.dll
+\\Mac\Home\Desktop\Proyeccion_3D_\Perspectiva 3D\obj\Debug\net6.0-windows\refint\Proyeccion 3D.dll
+\\Mac\Home\Desktop\Proyeccion_3D_\Perspectiva 3D\obj\Debug\net6.0-windows\Proyeccion 3D.pdb
+\\Mac\Home\Desktop\Proyeccion_3D_\Perspectiva 3D\obj\Debug\net6.0-windows\Proyeccion 3D.genruntimeconfig.cache
+\\Mac\Home\Desktop\Proyeccion_3D_\Perspectiva 3D\obj\Debug\net6.0-windows\ref\Proyeccion 3D.dll
+\\Mac\Home\Desktop\Graficacion\Projects\Proyeccion_3D_\Perspectiva 3D\bin\Debug\net6.0-windows\Proyeccion 3D.exe
+\\Mac\Home\Desktop\Graficacion\Projects\Proyeccion_3D_\Perspectiva 3D\bin\Debug\net6.0-windows\Proyeccion 3D.deps.json
+\\Mac\Home\Desktop\Graficacion\Projects\Proyeccion_3D_\Perspectiva 3D\bin\Debug\net6.0-windows\Proyeccion 3D.runtimeconfig.json
+\\Mac\Home\Desktop\Graficacion\Projects\Proyeccion_3D_\Perspectiva 3D\bin\Debug\net6.0-windows\Proyeccion 3D.dll
+\\Mac\Home\Desktop\Graficacion\Projects\Proyeccion_3D_\Perspectiva 3D\bin\Debug\net6.0-windows\Proyeccion 3D.pdb
+\\Mac\Home\Desktop\Graficacion\Projects\Proyeccion_3D_\Perspectiva 3D\obj\Debug\net6.0-windows\Proyeccion 3D.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Graficacion\Projects\Proyeccion_3D_\Perspectiva 3D\obj\Debug\net6.0-windows\Perspectiva_3D.Form.resources
+\\Mac\Home\Desktop\Graficacion\Projects\Proyeccion_3D_\Perspectiva 3D\obj\Debug\net6.0-windows\Proyeccion 3D.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Graficacion\Projects\Proyeccion_3D_\Perspectiva 3D\obj\Debug\net6.0-windows\Proyeccion 3D.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\Graficacion\Projects\Proyeccion_3D_\Perspectiva 3D\obj\Debug\net6.0-windows\Proyeccion 3D.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Graficacion\Projects\Proyeccion_3D_\Perspectiva 3D\obj\Debug\net6.0-windows\Proyeccion 3D.AssemblyInfo.cs
+\\Mac\Home\Desktop\Graficacion\Projects\Proyeccion_3D_\Perspectiva 3D\obj\Debug\net6.0-windows\Proyeccion 3D.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Graficacion\Projects\Proyeccion_3D_\Perspectiva 3D\obj\Debug\net6.0-windows\Proyeccion 3D.dll
+\\Mac\Home\Desktop\Graficacion\Projects\Proyeccion_3D_\Perspectiva 3D\obj\Debug\net6.0-windows\refint\Proyeccion 3D.dll
+\\Mac\Home\Desktop\Graficacion\Projects\Proyeccion_3D_\Perspectiva 3D\obj\Debug\net6.0-windows\Proyeccion 3D.pdb
+\\Mac\Home\Desktop\Graficacion\Projects\Proyeccion_3D_\Perspectiva 3D\obj\Debug\net6.0-windows\Proyeccion 3D.genruntimeconfig.cache
+\\Mac\Home\Desktop\Graficacion\Projects\Proyeccion_3D_\Perspectiva 3D\obj\Debug\net6.0-windows\ref\Proyeccion 3D.dll
